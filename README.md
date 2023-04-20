@@ -45,7 +45,7 @@ Generate a neutral headline for articles.
 Add a neutral category in the word dictionary
 
 # Running it:
-1. Download archieve and insert into google drive under My drive path.
+1. Download archive and insert into google drive under My drive path.
 2. When runinng it make sure to allow acess to the folder.
 3. It might take a long time (1hr), so to skip the tree uncomment ln:23 to shorten the randometree data inputs.
 (Note the file uploaded has ran through everything)
